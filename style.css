@@ -143,8 +143,8 @@ p {
 
 .contact-link {
 	color: white;
-	font-weight: bold;
-	font-size: 13px;
+	margin: 4px;
+	text-decoration: none;
 }
 
 
@@ -191,3 +191,4 @@ from {
 to {
   -webkit-mask-position: -50%;}
 }
+
